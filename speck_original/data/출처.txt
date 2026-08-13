@@ -1,0 +1,40 @@
+[5] F. Abed, E. List, S. Lucks, and J. Wenzel, ‘‘Differential cryptanalysis of round-reduced SIMON and SPECK,’’ in Proc. Fast Softw. Encryption
+// https://www.iacr.org/archive/fse2014/85400194/85400194.pdf
+https://eprint.iacr.org/2013/568.pdf
+
+[7] A. D. Dwivedi and P. Morawiecki, ‘‘Differential cryptanalysis of roundreduced SPECK,’’
+https://eprint.iacr.org/2018/899.pdf
+
+[14] A. Biryukov, A. Roy, and V. Velichkov, ‘‘Differential analysis of block ciphers SIMON and SPECK,’’ in Proc. Fast Softw. Encryption
+https://eprint.iacr.org/2014/922.pdf
+
+[16] K. Fu, M. Wang, Y. Guo, S. Sun, and L. Hu, ‘‘MILP-based automatic search algorithms for differential and linear trails for SPECK,’’ in Proc. Fast Softw. Encryption
+https://eprint.iacr.org/2016/407.pdf
+
+[17] L. Song, Z. Huang, and Q. Yang, ‘‘Automatic differential analysis of ARX block ciphers with application to SPECK and LEA,’’ in Proc. Inf. Secur. Privacy
+https://eprint.iacr.org/2016/209.pdf
+
+[18] M. Huang and L. Wang, ‘‘Automatic tool for searching for differential characteristics in ARX ciphers and applications,’’ in Proc. 20th Int. Conf. Cryptol. India, 
+https://eprint.iacr.org/2019/1318.pdf
+
+[19] Z. Feng, Y. Luo, C. Wang, Q. Yang, Z. Liu, and L. Song, ‘‘Improved differential cryptanalysis on SPECK using plaintext structures,’’ in Proc. Australas. Conf. Inf. Secur. Privacy
+https://eprint.iacr.org/2023/566.pdf
+
+======
+[1] Alex Biryukov and Vesselin Velichkov, Automatic Search for Differential Trails in ARX Ciphers (extended version)
+https://eprint.iacr.org/2013/853.pdf		p.13
+
+[2] Zhengbin Liu, Yongqiang Li, Lin Jiao, and Mingsheng Wang, A new method for Searching Optimal Differential and Linear Trails in ARX Ciphers
+https://eprint.iacr.org/2019/1438.pdf	p. 22
+
+// speck-32 9 round optimal
+[3] Monte Carlo Tree Search for Automatic Differential Characteristics Search: Application to SPECK
+https://eprint.iacr.org/2024/126.pdf		p.21, 22(variant version)
+
+======
+탈락
+// Itai Dinur, Improved Differential Cryptanalysis of Round-Reduced Speck
+
+Ralph Ankele, Stefan Kölbl, Mind the Gap - A Closer Look at the Security of Block Ciphers against Differential Cryptanalysis
+https://eprint.iacr.org/2018/689.pdf		
+======
